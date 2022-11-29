@@ -10,6 +10,8 @@ Then comes the Design case. Here Use Case Diagram, then Sequence, Activity, Stat
 
 Finally - followed by a conclusion.
 
+NOTE - Rest of the Diagrams are in the PDF file
+
 ![UC](https://user-images.githubusercontent.com/75902819/204543987-2f29c58e-2842-4334-bc65-eb865cb2a8c2.png)
 
 ![SQD1](https://user-images.githubusercontent.com/75902819/204544020-c46e0bc7-6256-4876-a83a-dce55fee9375.png)
